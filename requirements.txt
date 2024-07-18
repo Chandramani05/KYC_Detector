@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+numpy
+base64
+python-dotenv
+fireworks-client
